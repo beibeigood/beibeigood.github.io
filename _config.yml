@@ -1,3 +1,3 @@
-	name: Wenqing Hao, beibeigood
-	markdown: kramdown
+name: Wenqing Hao, beibeigood
+markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
